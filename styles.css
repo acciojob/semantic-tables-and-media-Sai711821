@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	min-width:600px;
+}
+table th{
+	background-color:lightblue;
+	text-align:left;
+}
+table th, table td{
+	border-bottom:1px solid lightblue;
+}
+table tr{
+	border: 1px solid black;
+}
+
+
+
+
